@@ -1,0 +1,8 @@
+.finished{
+    color: rgb(68, 235, 82);
+    font-weight: bold;
+}
+.inProgress{
+    color: rgb(227, 25, 25);
+    font-weight: bold;
+}
