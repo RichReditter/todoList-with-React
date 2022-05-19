@@ -5,6 +5,7 @@
 .center{
   margin-left: auto;
   margin-right: auto;
+  justify-content: space-between;
 }
 
 .flex{
@@ -24,6 +25,16 @@
 #form1{
   width: 20%;
   margin-left: 37%;
+}
+
+.form{
+  width: 7%;
+  border-radius: 10%;
+  border: 1px solid rgb(224, 219, 219);
+}
+
+.filter{
+  margin-left: 1%;
 }
 
 
